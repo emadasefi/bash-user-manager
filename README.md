@@ -62,8 +62,4 @@ sudo dpkg -r usermgmt
 
 ## Author
 
-itachiXDev
-
-## License
-
-MIT License
+Pasan Hewavitharana
